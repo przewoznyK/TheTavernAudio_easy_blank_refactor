@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{351548ae-0021-4771-92e5-95ece8cac127}">
+		<property name="assetPath">
+			<value>Adventures of a Bard.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>77.538479166666662</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{733c58a6-5153-4bc9-b535-986d077e224d}</destination>
+		</relationship>
+	</object>
+</objects>
